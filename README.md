@@ -1,6 +1,6 @@
 # fugue-poc-calculator
 
-Test project for the Fugue runtime POC. Three progressively complex goals, each run as a separate Fugue session.
+Test project for the Fugue runtime POC (orchestra coding agent). Three progressively complex goals, each run as a separate Fugue session.
 
 ---
 
